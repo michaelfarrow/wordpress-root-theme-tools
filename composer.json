@@ -1,0 +1,16 @@
+{
+    "name": "weyforth/root-theme-tools",
+    "type": "wordpress-muplugin",
+    "authors": [
+        {
+            "name": "Mike Farrow",
+            "email": "contact@mikefarrow.co.uk"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Weyforth\\ThemeCommon": "src/"
+        }
+    }
+}
